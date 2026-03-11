@@ -46,14 +46,14 @@ The system allows users to manage movie records with validation, modal editing, 
 
 | Technology | Version |
 | ---------- | ------- |
-| Node.js    | 20.x    |
-| React      | 18.x    |
-| TypeScript | 5.x     |
-| Express    | 4.x     |
+| Node.js    | 20.15.0 |
+| React      | 19.2.0  |
+| TypeScript | 5.9.3   |
+| Express    | 5.2.1   |
 | PostgreSQL | 15      |
 | Docker     | 24+     |
 | pgAdmin    | 7       |
-| Vite       | 5.x     |
+| Vite       | 7.3.1   |
 
 ---
 
