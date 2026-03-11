@@ -73,6 +73,10 @@ full-stack-movie-records
 │   ├── src
 │   └── package.json
 │
+├── database
+│   ├── schema.sql
+│   └── seed.sql
+│
 ├── docker-compose.yml
 └── README.md
 ```
@@ -184,14 +188,6 @@ Backend will run at
 http://localhost:5000
 ```
 
-Example API
-
-```
-GET http://localhost:5000/movies
-```
-
----
-
 # ▶️ Run Frontend
 
 Open another terminal
@@ -245,21 +241,6 @@ Movie title already exists
 * Edit movie with modal
 * Confirm delete modal
 * Inline validation errors
-
----
-
-# 🧪 Future Improvements
-
-Possible enhancements for production:
-
-* JWT Authentication
-* Pagination
-* Search movies
-* Sorting
-* Unit testing
-* API documentation
-* CI/CD pipeline
-* Deployment with Docker
 
 ---
 
