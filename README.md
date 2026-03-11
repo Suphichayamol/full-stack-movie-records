@@ -162,10 +162,10 @@ Name: MovieDB
 ### Connection
 
 ```
-Host name: postgres
+Host name: localhost
 Port: 5432
-Username: postgres
-Password: postgres
+Username: admin
+Password: password
 ```
 
 Click **Save**
