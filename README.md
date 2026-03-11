@@ -179,7 +179,7 @@ Open terminal
 ```bash
 cd movie-backend
 npm install
-npm run dev
+node server.js
 ```
 
 Backend will run at
